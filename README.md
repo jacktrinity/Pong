@@ -5,11 +5,12 @@ From the Tutorial:
 https://www.youtube.com/watch?v=C6jJg9Zan7w
 
 Players Control:
-  Player 1: Up - W
-            Down - S
+
+Player 1: Up - W
+          Down - S
           
-  Player 2: Up - UP Arrow Key
-            Down - DOWN Arrow Key
+Player 2: Up - UP Arrow Key
+          Down - DOWN Arrow Key
 
 Changes and implementation made:
 
